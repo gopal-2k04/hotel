@@ -1,5 +1,4 @@
 {
-  "homepage": "https://gopal-2k04.github.io/HOTEL",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+     
   },
   "dependencies": {
     "axios": "^1.7.9",
